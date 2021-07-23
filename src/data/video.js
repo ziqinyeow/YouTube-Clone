@@ -1,0 +1,68 @@
+const video = [
+  {
+    img: "https://images.unsplash.com/photo-1517059224940-d4af9eec41b7?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=867&q=80",
+    length: "1.34",
+    title: "Introduction to the newest M1 chip",
+    uploader: "Emma Hanson",
+    views: "80k",
+    day: "3",
+  },
+  {
+    img: "https://images.unsplash.com/photo-1521729839347-131a32f9abcb?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1032&q=80",
+    length: "4.12",
+    title: "Deepest Breath to the Nature",
+    uploader: "Emma Hanson",
+    views: "3.2M",
+    day: "4",
+  },
+  {
+    img: "https://images.unsplash.com/photo-1507608869274-d3177c8bb4c7?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
+    length: "26.52",
+    title: "The Dream of your soul",
+    uploader: "Emma Hanson",
+    views: "19.2M",
+    day: "5",
+  },
+  {
+    img: "https://images.unsplash.com/photo-1471039497385-b6d6ba609f9c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
+    length: "8.32",
+    title: "Behind all the hardwork",
+    uploader: "Emma Hanson",
+    views: "32.2k",
+    day: "6",
+  },
+  {
+    img: "https://images.unsplash.com/photo-1614016201880-ddf8a82cfe6b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=752&q=80",
+    length: "20.16",
+    title: "Colour your eidetic memory",
+    uploader: "Emma Hanson",
+    views: "132.2k",
+    day: "7",
+  },
+  {
+    img: "https://images.unsplash.com/photo-1625826878953-d465ffb38fa4?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80",
+    length: "10.36",
+    title: "The sensation of Affogatto",
+    uploader: "Emma Hanson",
+    views: "13.2M",
+    day: "7",
+  },
+  {
+    img: "https://images.unsplash.com/photo-1625806785652-f4427c3fda40?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80",
+    length: "21.36",
+    title: "The Bitcoin Traversy",
+    uploader: "Emma Hanson",
+    views: "233.2M",
+    day: "8",
+  },
+  {
+    img: "https://images.unsplash.com/photo-1625816615218-a026e9543bce?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
+    length: "23.53",
+    title: "Express yourself, yes or no?",
+    uploader: "Emma Hanson",
+    views: "16.2k",
+    day: "9",
+  },
+];
+
+export default video;
